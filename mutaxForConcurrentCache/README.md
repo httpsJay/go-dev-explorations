@@ -17,7 +17,7 @@ Holds the actual data you want to store in the cache.
 
 ### `ConcurrentCache`
 
-Main structure for the cache that uses mutex for concurrent read/write access.
+The main structure for the cache uses mutex for concurrent read/write access.
 
 ```
 |-----------------|
